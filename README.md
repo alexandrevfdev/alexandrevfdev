@@ -38,7 +38,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alexandrevfdev/alexandrevfdev/output/snake.svg" alt="Snake animation" />
-
-
-###
